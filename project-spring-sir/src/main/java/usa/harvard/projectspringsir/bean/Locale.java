@@ -13,7 +13,8 @@ import lombok.NoArgsConstructor;
 public class Locale {
     @Id
     private Long id;
-//ismail
+//ismail chafai
+//zaime gay
     private String ref;
     @ManyToOne
     private  Rue rue;
