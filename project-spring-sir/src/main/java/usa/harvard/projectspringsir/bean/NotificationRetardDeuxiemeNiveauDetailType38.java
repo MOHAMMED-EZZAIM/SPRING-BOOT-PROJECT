@@ -17,4 +17,5 @@ public class NotificationRetardDeuxiemeNiveauDetailType38 {
     private double montantRetardPremierMois;
     private double montantRetardAutreMois;
     private double montantTotal;
+    
 }
