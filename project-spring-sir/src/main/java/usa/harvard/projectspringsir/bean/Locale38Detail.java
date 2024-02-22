@@ -17,4 +17,5 @@ public class Locale38Detail {
     private boolean active;
     //mohammed ezzaim Locale38Detail
 //ismail machi rajle sd9 mi5i
+//ismaiul
 }
