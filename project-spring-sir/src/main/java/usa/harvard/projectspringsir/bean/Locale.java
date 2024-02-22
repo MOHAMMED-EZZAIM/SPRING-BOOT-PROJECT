@@ -18,6 +18,5 @@ public class Locale {
     private  Rue rue;
     private String complementAdressse;
     private String CategorieLocale;
-    //mohammed ezzaim 2024!!
-    // mohammed ismail mi5i
+
 }
